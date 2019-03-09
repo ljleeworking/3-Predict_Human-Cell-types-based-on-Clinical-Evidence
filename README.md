@@ -1,4 +1,4 @@
-# Capstone_project_Human-Cell-types-based-on-Clinical-Evidence
+# Predict-Human-Cell-types-based-on-Clinical-Evidence
 
 Kaggle dataset - Personalized Medicine: Redefining Cancer Treatment https://www.kaggle.com/c/msk-redefining-cancer-treatment
 
